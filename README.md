@@ -1,8 +1,5 @@
 # softwareproject
-upload neccesary files 
-   _  _
- < 0..0 >
- |  >  |
- |  |  |
- |  -  |
-   |__|
+upload neccesary files
+_____
+>_-_>
+_____
